@@ -1,4 +1,5 @@
-# AR Kit a new framework to create Augmented Reality experiences for Iphone and Ipad 
+# What is AR Kit? 
+* AR Kit a new framework to create Augmented Reality experiences for Iphone and Ipad 
 * To read "Introducing AR Kit" : https://developer.apple.com/arkit/
 * To watch "Introducing ARKit (Augmented Reality for iOS) : https://developer.apple.com/videos/play/wwdc2017/602/
 
