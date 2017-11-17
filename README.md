@@ -6,7 +6,7 @@
 ## How to integrate Core ML with AR Kit ? 
 * How to integrate Core ML with AR Kit by Mohammad Azam : http://bit.ly/2zQvGzs
 
-```swift 
+``` swift 
 import UIKit
 import SceneKit
 import ARKit
@@ -189,5 +189,6 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         // call the request with the VNImageRequestHandler created : imageRequestHander
         DispatchQueue.global().async {
             try! imageRequestHander.perform(self.visionRequests)
-        }
+ }
+
 ```        
